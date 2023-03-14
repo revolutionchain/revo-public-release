@@ -17,4 +17,8 @@ https://www.virustotal.com/gui/file/5534de8126f3bc2bf9488ca483aaed27bbfcdd814e53
 
 Revo-Mercury-0.22.1-Linux-x64-Daemon+CLI.zip
 Hash: 72f82cebb517d89c893455f98c3e8bbb99a4609a20c5e7f29ae70e890c1d1e6f
-https://www.virustotal.com/gui/file/72f82cebb517d89c893455f98c3e8bbb99a4609a20c5e7f29ae70e890c1d1e6f?nocache=1
+https://www.virustotal.com/gui/file/72f82cebb517d89c893455f98c3e8bbb99a4609a20c5e7f29ae70e890c1d1e6f
+
+Revo-Mercury-0.22.1-Linux-x64-GUI.zip
+Hash: 2f06daf126dde09f67407c4050028eb8140179c97cb8225d5f00a6e22a0ff71d
+https://www.virustotal.com/gui/file/2f06daf126dde09f67407c4050028eb8140179c97cb8225d5f00a6e22a0ff71d
